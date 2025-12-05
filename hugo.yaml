@@ -126,7 +126,7 @@ params:
     title: "Jack."
     subtitle: "I write technical content."
     content: "Technical writing & communications student at the University of Minnesota, with a subplan is biological and health sciences. I enjoy researching and creating usable and accurate documentation for many subjects. My academic and professional experiences equip me with the knowledge and skills needed to take complex technical information and turn it into simple and clear documentation for a wide range of audiences."
-    image: /images/headshot.jpg
+    image: images/headshot.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
